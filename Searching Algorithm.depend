@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1629831426 source:c:\users\mohamed el-kholy\codeblock\searching algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"bubbleSort_interface.h"
+	"binarySearch_interface.h"
+
+1629830888 source:c:\users\mohamed el-kholy\codeblock\searching algorithm\bubblesort_program.c
+	<stdio.h>
+	"STD_TYPES.h"
+	"bubbleSort_interface.h"
+
+1629816870 c:\users\mohamed el-kholy\codeblock\searching algorithm\std_types.h
+
+1629823218 c:\users\mohamed el-kholy\codeblock\searching algorithm\bubblesort_interface.h
+
+1629830828 source:c:\users\mohamed el-kholy\codeblock\searching algorithm\binarysearch_program.c
+	<stdio.h>
+	"STD_TYPES.h"
+	"bubbleSort_interface.h"
+	"binarySearch_interface.h"
+
+1629822341 c:\users\mohamed el-kholy\codeblock\searching algorithm\binarysearch_interface.h
+
